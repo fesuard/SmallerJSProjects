@@ -1,0 +1,43 @@
+body {
+    display: flex;
+    justify-content: center;  
+    align-items: center;     
+    height: 80vh;           
+    margin: 0;    
+}
+
+.card {
+    width: 500px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    text-align: center;
+    background-color: white;
+    
+}
+
+.card-img {
+    width: 100%;
+    height: auto;
+}
+
+#myCounter {
+    display: block;
+    font-size:7em;
+    font-family: Helvetica;
+}
+
+.buttons {
+    padding: 10px 20px;
+    font-size: 1.2em;
+    background-color: rgb(196, 143, 83);
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.30s;
+    margin-top: 10px;
+}
+
+.buttons:hover {
+    background-color: rgb(145, 91, 31);
+}
+
