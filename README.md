@@ -8,4 +8,5 @@ Counter App – A simple counter with increment, decrement, and reset
 Dice Roller – Roll a virtual dice and get a random number
 Number Guessing Game – Try to guess the correct number with hints, using window prompt and alerts
 Number Guessing Game v2 – Try to guess the correct number with hints, you set up your guessing range, previous guesses are tracked and displayed, after you guessed the number the game is reset
+Random Password Generator - It generates a random password based on your allowed characters, and logs it in the console.
 More mini-projects coming soon!
