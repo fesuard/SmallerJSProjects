@@ -12,4 +12,5 @@ Random Password Generator - It generates a random password based on your allowed
 Digital Clock - Digital clock that dynamically updates every second to display the current time in a 12-hour AM/PM format. It ensures proper formatting using leading zeros when necessary;
 Stopwatch - A simple stopwatch built with HTML, CSS, and JavaScript. This stopwatch features start, stop, and reset functionalities, and displays time in the format HH:MM:SS:MS (Hours:Minutes:Seconds:Milliseconds).
 Calculator - A simple calculator built with HTML, CSS and JavaScript.
+Rock-Paper-Scissors - A simple Rock-Paper-Scissors game built with HTML, CSS, and JavaScript. The player selects an option, and the computer randomly chooses its move. The game keeps score and visually displays the result of each round.
 More mini-projects coming soon!

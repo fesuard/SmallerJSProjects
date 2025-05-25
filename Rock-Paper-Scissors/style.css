@@ -37,3 +37,19 @@ h1{
     font-size: 5rem;
     margin: 30px 0;
 }
+
+.scoreDisplay{
+    font-size: 2rem;
+}
+
+.greenText, #playerScoreDisplay{
+    color: hsl(120, 91%, 48%);
+}
+
+.redText{
+    color: hsl(0, 89%, 56%);
+}
+
+.greyText, #computerScoreDisplay{
+    color: rgb(160, 157, 157);
+}
